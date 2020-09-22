@@ -1,4 +1,4 @@
-## Data Science - track introduction
+## Data Science - track activity
 
 The Titanic sank in the early morning hours of 15 April 1912 in the North Atlantic Ocean. An estimated 2,224 people were on board when she struck an iceberg at around 23:40 on Sunday, 14 April 1912. Her sinking is one of the deadliest peacetime marine disasters in history.
 
