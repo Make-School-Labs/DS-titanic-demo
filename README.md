@@ -83,6 +83,26 @@ Now that you know how to handle the csv...
 
 **a) Get the number of female passengers who survived.**
 
+Pseudocode to use as guide
+
+```python
+#TODO: find the library that lets us work with CSVs and import it
+
+
+with open('titanic.csv') as csvfile:
+    #TODO: read the CSV into something we can iterate over and that delimits based on ','
+
+    # TODO: set the counter
+
+    #TODO: iterate over rows
+
+        #TODO: if passenger is female and if she survived, increase the counter
+        # NOTE: row[1] contains survival values, row[4] contains gender values
+        # look over the CSV to see what to check against
+
+#TODO: print the counter
+```
+
 **b) Get the number of passengers who survived whose age was below 18.**
 
 Confirm that you got the right numbers with your group.
