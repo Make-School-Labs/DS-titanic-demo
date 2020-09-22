@@ -55,7 +55,7 @@ We'll usean iterator to go over the entries of the file.
 for row in reader:
   #TODO: increase counter
 
-##TODO:print out total
+#TODO:print out total
 ```
 
 Run your code and identify:
