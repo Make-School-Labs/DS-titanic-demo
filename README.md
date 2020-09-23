@@ -8,7 +8,7 @@ Today you will be using a Titanic data set to find out how many people survived.
 
 ### Step 1️⃣ - Downloading the data set
 
-Download the csv file for the activity here: [make.sc/titanic-dataset](make.sc/titanic-dataset)
+Download the csv file for the activity here: make.sc/titanic-dataset
 
 ### Step 2️⃣ - Setting up the project
 
